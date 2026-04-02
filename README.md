@@ -1,6 +1,6 @@
 # 🌿 Plant Disease Detection using Deep Learning
 
-An AI-powered plant disease detection system that classifies plant leaves as **healthy or unhealthy** using a deep learning model. This project aims to assist farmers and agricultural experts in early disease detection and crop protection.
+An AI-powered cotton plant disease detection system that classifies plant leaves as **healthy or unhealthy** using a deep learning model. This project aims to assist farmers and agricultural experts in early disease detection and crop protection.
 
 ---
 
