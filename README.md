@@ -25,7 +25,8 @@ An AI-powered cotton plant disease detection system that classifies plant leaves
 
 ## 📸 Sample Results
 
-(Add screenshots of predictions here)
+<img width="558" height="992" alt="image" src="https://github.com/user-attachments/assets/a6030cf4-0d01-43ce-b7bb-80007da7ded3" />
+
 
 ---
 
