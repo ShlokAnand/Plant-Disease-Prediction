@@ -1,92 +1,16 @@
-# 🌿 Plant Disease Detection using Deep Learning
+# team_g
 
-An AI-powered cotton plant disease detection system that classifies plant leaves as **healthy or unhealthy** using a deep learning model. This project aims to assist farmers and agricultural experts in early disease detection and crop protection.
+A new Flutter project.
 
----
+## Getting Started
 
-## 🚀 Features
+This project is a starting point for a Flutter application.
 
-* 🌱 Detects plant health from leaf images
-* 🧠 Deep learning model (DenseNet-121)
-* ⚡ Fast and accurate predictions
-* 📊 Binary classification: Healthy vs Unhealthy
-* 📱 Can be integrated into mobile apps
+A few resources to get you started if this is your first Flutter project:
 
----
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## 🧠 Model Details
-
-* Model: DenseNet-121
-* Framework: TensorFlow / PyTorch
-* Input: Leaf images
-* Output: Healthy / Unhealthy classification
-
----
-
-## 📸 Sample Results
-
-<img width="558" height="992" alt="image" src="https://github.com/user-attachments/assets/a6030cf4-0d01-43ce-b7bb-80007da7ded3" />
-
-
----
-
-## ⚙️ How to Run
-
-1. Clone the repository
-
-   ```bash
-   git clone https://github.com/yourusername/plant-disease-detection.git
-   cd plant-disease-detection
-   ```
-
-2. Install dependencies
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the model
-
-   ```bash
-   python predict.py
-   ```
-
----
-
-## 📁 Project Structure
-
-```id="mz0pnw"
-plant-disease-detection/
-│── model/
-│── dataset/
-│── src/
-│── outputs/
-│── README.md
-│── requirements.txt
-```
-
----
-
-## 📦 Requirements
-
-```id="vndy13"
-tensorflow
-numpy
-opencv-python
-matplotlib
-```
-
----
-
-## 🎯 Use Cases
-
-* Smart agriculture 🌾
-* Crop monitoring systems 🌱
-* Disease detection automation 🤖
-* Precision farming solutions
-
----
-
-## 👨‍💻 Author
-
-Shlok Anand
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
